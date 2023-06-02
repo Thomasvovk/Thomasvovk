@@ -10,8 +10,7 @@ Full Stack Developer
 - 💻 With a heart full of passion and an unwavering commitment to excellence, I aspire to forge meaningful collaborations with all of you in the realm of technology.
 - 🤝 Together, let us embark on a transformative journey, weaving our expertise and innovative ideas into captivating projects that push the boundaries of possibility.
 - 🤍 Join me in shaping the future of the digital landscape, as we bring forth cutting-edge solutions, embrace emerging technologies, and unravel the mysteries of the interconnected world.
-- 🚀 Looking forward to connecting with fellow visionaries and creating remarkable endeavors that leave an indelible mark on the world of technology.
-- 🌍 Let's make magic happen!
+- 🚀 Looking forward to connecting with fellow visionaries and creating remarkable endeavors that leave an indelible mark on the world of technology. Let's make magic happen!
 - 🌑 How to reach me: --> linkedin.com/in/thomasvovk/
 
 <p align="center">
