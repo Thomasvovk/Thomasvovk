@@ -1,6 +1,6 @@
 
 <p align="center">
-Full Stack Developer 
+Software Engineer
 </p>
 <p align="center">
 <img src="https://github.com/Thomasvovk/Thomasvovk/assets/127060122/e12987fc-0cf1-4bb9-8bd9-6911d07cf75b" />
